@@ -1,12 +1,12 @@
 
----
+
 
 <h1 align="center"> Hello, I'm Vilker Duarte <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" alt="Ícone de terminal digitando"  width="30px" style="margin-right: 10px; border-radius: 10%; /> 
                        
 ---
 
-<p align="center" > I am a Full Stack Developer with a passion for code and coffe <img src="https://media.giphy.com/media/YOT9cbRqAPSF1sb1lk/giphy.gif" alt="Ícone de terminal digitando" width="50px" align="center" style="margin-right: 10px; border-radius: 20%;  />
-</p>
+<h2 align="center" > I am a Full Stack Developer with a passion for code and coffe <img src="https://media.giphy.com/media/YOT9cbRqAPSF1sb1lk/giphy.gif" alt="Ícone de terminal digitando" width="50px" align="center" style="margin-right: 10px; border-radius: 20%;  />
+</h2>
  
 ---                                                                                                                                              
 
