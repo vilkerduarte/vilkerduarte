@@ -1,8 +1,9 @@
 
 <h1 align="center">Hello, I'm Vilker Duarte! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" alt="Ícone de terminal digitando" width="30px" style="margin-right: 10px; border-radius: 10%; /> </h1>    
-                                        
-<p align=""> I am a Full Stack developer with a passion for code and coffee ☕.</p>
 
+            
+## I am a full Stack developer with a passion for code and coffe ☕
+  
 ## Programming Languages:
 <p align="center">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" "/>
@@ -25,12 +26,12 @@
 <div>
   <p align="center" >
   <a href="https://github.com/vilkerduarte">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilkerduarte&layout=compact&langs_count=7&theme=dgruvbox_light"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vilkerduarte&show_icons=true&theme=dgruvbox_light&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilkerduarte&layout=compact&langs_count=7&theme=holi"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vilkerduarte&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
     </p>
 </div>
 
-## Contact Me 
+## Contact Me:
 <p align="center" >
   <a href="https://www.linkedin.com/in/vilker-duarte/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
