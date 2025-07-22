@@ -1,12 +1,17 @@
 
-<h1 align="center">Hello, I'm Vilker Duarte! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" alt="Ícone de terminal digitando" width="30px" style="margin-right: 10px; border-radius: 10%; /> </h1>    
 
-            
-## I am a full Stack developer with a passion for code and coffe ☕
-  
+
+<h1 align="center"> Hello, I'm Vilker Duarte <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" alt="Ícone de terminal digitando"  width="30px" style="margin-right: 10px; border-radius: 10%; />   
+                                
+#
+<p align="center" > I am a Full Stack Developer with a passion for code and coffe <img src="https://media.giphy.com/media/YOT9cbRqAPSF1sb1lk/giphy.gif" alt="Ícone de terminal digitando" width="50px" align="center" style="margin-right: 10px; border-radius: 20%;  />
+</p>
+
+#
+
 ## Programming Languages:
 <p align="center">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" "/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
