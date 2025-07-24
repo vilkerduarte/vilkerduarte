@@ -1,11 +1,16 @@
 
-
-<h1 align="center">Hello, I'm Vilker Duarte <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" alt="Ícone de terminal digitando" width="30px" style="margin-right: 10px; border-radius: 10%;" /></h1>
-
+ 
+<h1 align="center">Hello, I'm Vilker Duarte </h1>
 
 
 <h3 align="center">I am a Full Stack Developer with a passion for code and coffee.<img src="https://media.giphy.com/media/YOT9cbRqAPSF1sb1lk/giphy.gif" 
  alt="Ícone de café e código" width="50px" " />
+</h3>
+
+---
+
+<h3 align="center">Creator of Canvas-Editor, a free, no-login, 100% frontend design editor focused on user freedom.<img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" 
+ alt="Ícone clic" width="30px" />
 </h3>
 
 ---
