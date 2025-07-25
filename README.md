@@ -4,19 +4,22 @@
 
 
 <h3 align="center">I am a Full Stack Developer with a passion for code and coffee.<img src="https://media.giphy.com/media/YOT9cbRqAPSF1sb1lk/giphy.gif" 
- alt="Ícone de café e código" width="50px" " />
+ alt="Ícone de café e código" width="50px" align="middle" />
 </h3>
-
----
-
 <h3 align="center">Creator of Canvas-Editor, a free, no-login, 100% frontend design editor focused on user freedom.<img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" 
- alt="Ícone clic" width="30px" />
+ alt="Ícone clic" width="30px" align="middle"/>
 </h3>
-
+<p align="center">
+  <a href="https://canvas-editor.com.br/" target="_blank">
+    <img src="https://canvas-editor.com.br/canva-editor.svg"  style="Color=white" width="80" height="80" alt="Canvas-Editor" />
+  </a>
+</p>
+ 
+ 
 ---
 
 ### Programming Languages:
-<p align="center">
+<p align="center" >
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
@@ -37,12 +40,13 @@
 
 ---
 
+As a professional developer, a significant portion of my work involves proprietary code for clients and companies, which limits its public availability on GitHub.
 <p align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilkerduarte&layout=compact&langs_count=7&theme=holi" alt="Top Languages"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vilkerduarte&show_icons=true&theme=holi&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
----
+
 
 ### Contact Me:
 <p align="center">
