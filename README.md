@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Vilker Duarte </h1>
 
 
-<h3 align="center">I am a Full Stack Developer with a passion for code and coffee.<img src="https://media.giphy.com/media/YOT9cbRqAPSF1sb1lk/giphy.gif" 
+<h3 align="center">I am a Full Stack Developer with a passion for code and coffee. Bringing 10 years of experience and over 50 projects to the table, I am proficient in both front-end and back-end, consistently seeking efficient technological solutions.<img src="https://media.giphy.com/media/YOT9cbRqAPSF1sb1lk/giphy.gif" 
  alt="Ícone de café e código" width="50px" align="middle" />
 </h3>
 <h3 align="center">Creator of Canvas-Editor, a free, no-login, 100% frontend design editor focused on user freedom.<img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" 
